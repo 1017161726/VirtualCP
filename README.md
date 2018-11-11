@@ -11,4 +11,35 @@
   * 模拟中大奖：事先采集一组数字为大奖号码。然后遍历机选，直至中大奖（二等奖500万或者一等奖1000万）才会停止。并统计机选次数和小奖分布情况。
 
 
-通过模拟可以学习彩票的算法，可以了解彩票的规律以及中奖的概率，知晓买彩票成本与彩票奖金回报的差距。
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand1_getStart.jpg
+
+
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand2_once.jpg
+
+
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand3_tenThousand.jpg
+
+
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand4_five_million.jpg
+
+
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand5_tenMillion.jpg
+
+
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand6_tenMillion2.jpg
+
+
+
+https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand7_singleThreadLooping.jpg
+
+
+
+*通过模拟可以学习彩票的算法，可以了解彩票的规律以及中奖的概率，知晓买彩票成本与彩票奖金回报的差距*
+
+
