@@ -12,34 +12,38 @@
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand1_getStart.jpg
+
+
+![img1](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand1_getStart.jpg)
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand2_once.jpg
+![img2](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand2_once.jpg)
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand3_tenThousand.jpg
+![img3](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand3_tenThousand.jpg)
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand4_five_million.jpg
+![img4](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand4_five_million.jpg)
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand5_tenMillion.jpg
+![img5](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand5_tenMillion.jpg)
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand6_tenMillion2.jpg
+![img6](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand6_tenMillion2.jpg)
 
 
 
-https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand7_singleThreadLooping.jpg
+![img7](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand7_singleThreadLooping.jpg)
 
 
 
-*通过模拟可以学习彩票的算法，可以了解彩票的规律以及中奖的概率，知晓买彩票成本与彩票奖金回报的差距*
+
+
+#通过模拟可以学习彩票的算法，可以了解彩票的规律以及中奖的概率，知晓买彩票成本与彩票奖金回报的差距#
 
 
