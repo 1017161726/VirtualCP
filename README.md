@@ -14,31 +14,31 @@
 
 
 
-![img1](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand1_getStart.jpg)
+![img1](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand1_getStart.png)
 
 
 
-![img2](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand2_once.jpg)
+![img2](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand2_once.png)
 
 
 
-![img3](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand3_tenThousand.jpg)
+![img3](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand3_tenThousand.png)
 
 
 
-![img4](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand4_five_million.jpg)
+![img4](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand4_five_million.png)
 
 
 
-![img5](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand5_tenMillion.jpg)
+![img5](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand5_tenMillion.png)
 
 
 
-![img6](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand6_tenMillion2.jpg)
+![img6](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand6_tenMillion2.png)
 
 
 
-![img7](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand7_singleThreadLooping.jpg)
+![img7](https://github.com/1017161726/VirtualCP/blob/master/screenshots/rand7_singleThreadLooping.png)
 
 
 
